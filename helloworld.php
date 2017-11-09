@@ -1,6 +1,5 @@
 <?php
 
-echo "HelloWorld";
-echo "Corrigi o email";
+echo "Olá, Mundo!";
 
 ?>
