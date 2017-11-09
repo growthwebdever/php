@@ -1,5 +1,14 @@
 <?php
 
-echo "123";
+//Comentário simples de uma linha
+
+echo "Olá, Mundo!";
+
+/*
+Comentário
+de 
+múltiplas 
+linhas
+*/
 
 ?>
